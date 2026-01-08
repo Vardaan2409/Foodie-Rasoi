@@ -68,7 +68,8 @@
 }
 
 .login-popup p span {
-    color: tomato;
+    /* color: tomato; */
+    color: #5B6F1D;
     font-weight: 500;
     cursor: pointer;
 }
