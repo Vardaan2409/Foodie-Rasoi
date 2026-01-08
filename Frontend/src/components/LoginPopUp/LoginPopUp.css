@@ -50,7 +50,8 @@
     padding: 10px;
     border-radius: 4px;
     color: white;
-    background-color: tomato;
+    /* background-color: tomato; */
+    background-color: #5B6F1D;
     font-size: 15px;
     cursor: pointer;
 }
