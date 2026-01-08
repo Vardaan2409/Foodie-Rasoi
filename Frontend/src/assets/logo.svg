@@ -1,0 +1,14 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left Dot -->
+  <circle cx="60" cy="80" r="8" fill="#E2A72E"/>
+  <!-- Text -->
+  <text x="70" y="105"
+        font-family="Poppins, Inter, Helvetica, Arial, sans-serif"
+        font-size="96"
+        font-weight="500"
+        fill="#5B6F1D">
+    Foodie Rasoi
+  </text>
+  <!-- Right Dot -->
+  <circle cx="650" cy="80" r="8" fill="#E2A72E"/>
+</svg>
